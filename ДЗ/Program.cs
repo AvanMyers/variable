@@ -13,13 +13,13 @@ namespace ДЗ
             int integer = 8;
             string offer = "Hi";
             bool isOpen = false;
-            float f = 0.5f;
-            double d = 0.0;
-            long l = 12412515125;
-            char c = 'a';
+            float floatingPointNumber = 0.5f;
+            double eightBytes = 0.0;
+            long longNumber = 12412515125;
+            char simbol = 'a';
             bool isClosed = true;
-            int i = 1678;
-            string number = "Nine";
+            int number = 1678;
+            string stringNumber = "Nine";
         }
     }
 }
